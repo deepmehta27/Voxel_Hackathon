@@ -2,7 +2,7 @@
 
 ## Overview
 
-This document provides a high-level overview of the proposed Virtual Fencing System for Railway Safety. The system aims to leverage computer vision and artificial intelligence to enhance the safety and efficiency of railway operations.
+This document provides a high-level overview of the proposed Virtual Fencing System for Railway Safety. The system aims to leverage computer vision to enhance the safety and efficiency of railway operations.
 
 ## Problem Statement
 
@@ -23,10 +23,10 @@ Existing approaches to railway safety typically rely on **physical fencing** to 
 
 ## Proposed Solution
 
-The proposed Virtual Fencing System utilizes computer vision and artificial intelligence to create a virtual fence around railway tracks. The system works as follows:
+The proposed Virtual Fencing System utilizes computer vision to create a virtual fence around railway tracks. The system works as follows:
 
 1. **Monitoring:** The system monitors video footage from CCTV cameras.
-2. **Detection:** Computer vision algorithms detect objects (such as people, animals, and vehicles) that enter the virtual fence.
+2. **Detection:** Computer vision algorithms like yolo to detect objects (such as people, animals, and vehicles) that enter the virtual fence.
 3. **Alerts:** If an object is detected inside the virtual fence, the system automatically generates an alert, which is sent to a central monitoring station for immediate action.
 
 ## Benefits of the Proposed Solution
@@ -49,4 +49,3 @@ The proposed Virtual Fencing System represents a promising new technology that c
 
 ---
 
-For further inquiries or collaborations, please contact [your contact information].
